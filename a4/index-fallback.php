@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang='en'>
   <head>
-    <meta charset='utf-8'>
+    <meta charset='utf-8' />
     <title>A4 Backup Page</title>
     <style>label { display: inline-block; width:90px; }</style>
   </head>
